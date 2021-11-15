@@ -12,8 +12,8 @@ Growth mindset allows an indivudual to grow and possibly be in a better mood ove
 
 #### Using different Formats practice
 
-<p1>[Google](https://google.com)
+[Google](https://google.com)
 
-<p2>Utilization of **bold** 
+Utilization of **bold** 
 
 ###### This would be a heading in H6 html higest number.
