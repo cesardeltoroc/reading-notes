@@ -2,7 +2,7 @@
 
 ## This would be a heading in H2 html
 
-This is cesar I love yo partice code in general.
+This is cesar I love to partice code in general.
 
 ### This is how I will keep mysefl in a growth mindset.
 
