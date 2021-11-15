@@ -1,7 +1,7 @@
 # Learning Markdown
 
 ## Introduction
-<p1> My name is Cesar Deltoro I'm a veteran and am looking to start my career in tech. I have always had a passion for tech since before I joined the Army and now that I am no longer serving I have been given the chance to start my dreams.
+My name is Cesar Deltoro I'm a veteran and am looking to start my career in tech. I have always had a passion for tech since before I joined the Army and now that I am no longer serving I have been given the chance to start my dreams.
 
 ### Growth Mindset
 Growth mindset allows an indivudual to grow and possibly be in a better mood overall. Growth mindsets give more space for growth rather than a fixed mindset keeping you boxed in a norm. 
