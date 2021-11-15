@@ -1,13 +1,16 @@
 # Learning Markdown
 
-## Growth Mindset
+## Introduction
+<p1> My name is Cesar Deltoro I'm a veteran and am looking to start my career in tech. I have always had a passion for tech since before I joined the Army and now that I am no longer serving I have been given the chance to start my dreams.
+
+### Growth Mindset
 Growth mindset allows an indivudual to grow and possibly be in a better mood overall. Growth mindsets give more space for growth rather than a fixed mindset keeping you boxed in a norm. 
 
 * Think about why you are doing this what made you wanna start a career in tech in the first place.
 * Remind yourself that you can be part of a team and work with others if you ever get caught in a struggle.
 * Maintain a healthy pattern and make sure you are also focusing on your mental health throughout the process.
 
-### Using different Formats practice
+#### Using different Formats practice
 
 <p1>[Google](https://google.com)
 
