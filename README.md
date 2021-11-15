@@ -14,4 +14,4 @@ Growth mindset allows an indivudual to grow and possibly be in a better mood ove
 #### Using different Formats practice
 Utilization of **bold** 
 
-This is an image of my favorite view in Nashville![This is an Image](https://www.google.com/search?q=nashville+tn&sxsrf=AOaemvLMArKIT0uRSrCBV2L6CJ93bsKp9g:1637008258932&source=lnms&tbm=isch&sa=X&sqi=2&ved=2ahUKEwjW6pH-mpv0AhWTPJQKHWbSDLYQ_AUoA3oECAEQBQ&biw=1347&bih=711&dpr=2#imgrc=9H6M20hf_tDPKM)
+![Nashville](https://www.google.com/search?q=nashville+tn&sxsrf=AOaemvLMArKIT0uRSrCBV2L6CJ93bsKp9g:1637008258932&source=lnms&tbm=isch&sa=X&sqi=2&ved=2ahUKEwjW6pH-mpv0AhWTPJQKHWbSDLYQ_AUoA3oECAEQBQ&biw=1347&bih=711&dpr=2#imgrc=9H6M20hf_tDPKM)
