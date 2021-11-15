@@ -1,9 +1,14 @@
-# This is my heading for my reading notes page this is an H1 in html
+# Learning Markdown
 
-## Information
+## Growth Mindset
+Growth mindset allows an indivudual to grow and possibly be in a better mood overall. Growth mindsets give more space for growth rather than a fixed mindset keeping you boxed in a norm. 
 
-This is cesar and I love to practice code in general.
+* Think about why you are doing this what made you wanna start a career in tech in the first place.
+* Remind yourself that you can be part of a team and work with others if you ever get caught in a struggle.
+* Maintain a healthy pattern and make sure you are also focusing on your mental health throughout the process.
 
 ### This is a heading in H3 Html
+[Google](https://google.com)
+Utilization of **bold** 
 
 ###### This would be a heading in H6 html higest number.
