@@ -7,7 +7,7 @@ Growth mindset allows an indivudual to grow and possibly be in a better mood ove
 * Remind yourself that you can be part of a team and work with others if you ever get caught in a struggle.
 * Maintain a healthy pattern and make sure you are also focusing on your mental health throughout the process.
 
-### This is a heading in H3 Html
+### Using different Formats practice
 
 <p1>[Google](https://google.com)
 
