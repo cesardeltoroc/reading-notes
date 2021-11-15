@@ -5,7 +5,7 @@ My name is Cesar Deltoro I'm a veteran and am looking to start my career in tech
 **Here is my:**  [Github](https://github.com/cesardeltoroc)
 
 ### Growth Mindset
-Growth mindset allows an indivudual to grow and possibly be in a better mood overall. Growth mindsets give more space for growth rather than a fixed mindset keeping you boxed in a norm. 
+**_Growth mindset_ allows an indivudual to grow and possibly be in a better mood overall. Growth mindsets give more space for growth rather than a fixed mindset keeping you boxed in a norm. **
 
 1. Think about why you are doing this what made you wanna start a career in tech in the first place.
 2. Remind yourself that you can be part of a team and work with others if you ever get caught in a struggle.
