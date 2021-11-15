@@ -4,7 +4,7 @@
 
 This is cesar I love to partice code in general.
 
-### This is how I will keep mysefl in a growth mindset.
+### This is how I will keep myself in a growth mindset.
 
 * Network and work in teams with classmates.
 * Ask questions when lost for more than 15 minutes on a subject.
