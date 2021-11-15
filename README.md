@@ -2,7 +2,7 @@
 
 ## Information
 
-This is cesar I love to partice code in general.
+This is cesar I love to practice code in general.
 
 ### This is how I will keep myself in a growth mindset.
 
