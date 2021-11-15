@@ -6,5 +6,6 @@
 *  **Bold**
 *  You can also insert a photo into a website using markdown by using syntax ![This is an image](Link to Image)
 
-Adding a website link goes as follows [Google](https://google.com)
+Adding a website link goes as follows [Website Name](Link to website).
+[Google](https://google.com)
 
