@@ -8,7 +8,9 @@ Growth mindset allows an indivudual to grow and possibly be in a better mood ove
 * Maintain a healthy pattern and make sure you are also focusing on your mental health throughout the process.
 
 ### This is a heading in H3 Html
-[Google](https://google.com)
-Utilization of **bold** 
+
+<p1>[Google](https://google.com)
+
+<p2>Utilization of **bold** 
 
 ###### This would be a heading in H6 html higest number.
