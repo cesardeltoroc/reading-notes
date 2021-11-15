@@ -5,3 +5,6 @@
 * When styling text there are different ways to style example 1 would be using Bold ** ** or _ _ .
 *  **Bold**
 *  You can also insert a photo into a website using markdown by using syntax ![This is an image](Link to Image)
+
+Adding a website link goes as follows [Google](https://google.com)
+
