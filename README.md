@@ -17,6 +17,5 @@ My name is Cesar Deltoro I'm a veteran and am looking to start my career in tech
 Utilization of **bold** 
 
 ##### Table of Contents
--[Class 1 Readin](class1.md)
+-[Class 1 Reading](class1.md)
 -[Class 2 Reading](class2.md)
--[Class 3 Reading]
