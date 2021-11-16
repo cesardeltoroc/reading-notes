@@ -8,7 +8,7 @@ Once on your laptop's shell/ terminal you can open VSCODE to help with syntax.
 
 **A:** git add * :Adding a flie e.t.c. to the link.
 
-**C:** git commit -a : To commit all change in the terminal.
+**C:** git commit -m "Message": To commit all change in the terminal.
 
 **P:** Git push origin main : Final push to move all the new files from the laptop back to Github.
 

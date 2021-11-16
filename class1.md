@@ -1,4 +1,5 @@
 # Markdown and using github    [CODE 102 Read 01]
+
 * Markdown can be considered a more simplified way of using HTML.
 
 * Whenever using # at the begnning of the line it creates a header and it foes from 1-6 with 1 being the biggest and 6 usually the smallest header.
