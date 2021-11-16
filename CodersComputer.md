@@ -7,13 +7,13 @@ PWD stands for Print Working Directory it tells you where you are currently in y
 Determining what's inside of your current location in a shell in ls.
 
 pwd
-Print Working Directory - ie. Where are we currently.
+Print Working Directory -  Where are we currently.
 
 ls
 List the contents of a directory.
 
 cd
-Change Directories - ie. move to another directory.
+Change Directories -  move to another directory.
 
 Relative path
 A file or directory location relative to where we currently are in the file system.
@@ -26,3 +26,9 @@ file.exe - an executable file, or program.
 file.txt - a plain text file.
 
 file.png, file.gif, file.jpg - an image.
+
+Linux is case sensitive so when using syntax it must be percise.
+
+file: obtain information about what type of file a file or directory is.
+
+ls -a: List the contents of a directory, including hidden files.
