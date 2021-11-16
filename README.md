@@ -18,4 +18,5 @@ Utilization of **bold**
 
 ##### Table of Contents
 -[Class 1 Reading](class1.md)
+
 -[Class 2 Reading](class2.md)
