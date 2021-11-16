@@ -1,4 +1,5 @@
-# This is notes for CODE 102 Read: 02
+# Accessing the terminal w/ commands [CODE 102 Read 02]
+
 The terminal is means of access to things located on a computer not using the GUI.
 You can sometimes use up and down keys to access previously written codes to make it easier when using the shell.
 An IDE is suite of different software all coming together. An IDE is a text editor, a file manager, a compiler, and a debugger all in one software package.
@@ -28,6 +29,6 @@ file: obtain information about what type of file a file or directory is.
 
 ls -a: List the contents inside of a directory it also includes hidden files.
 
-mk dir command allows you to make directory.
+mk dir command allows you to make a directory.
 
-[<===Back](README.md)
+[Back](README.md)
