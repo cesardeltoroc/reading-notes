@@ -27,3 +27,5 @@ Linux is case sensitive so when using syntax it must be percise.
 file: obtain information about what type of file a file or directory is.
 
 ls -a: List the contents inside of a directory it also includes hidden files.
+
+mk dir command allows you to make directory.
