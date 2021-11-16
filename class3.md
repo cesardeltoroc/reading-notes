@@ -16,5 +16,4 @@ You can use **git status** to check up on how many commits you are behind from t
 
 If you need help with Git you can use **git help command** 
 
-
 [Back](README.md)
