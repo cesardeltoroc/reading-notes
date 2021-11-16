@@ -13,10 +13,9 @@ My name is Cesar Deltoro I'm a veteran and am looking to start my career in tech
 2. Remind yourself that you can be part of a team and work with others if you ever get caught in a struggle.
 3. Maintain a healthy pattern and make sure you are also focusing on your mental health throughout the process.
 
-#### Using different Formats practice
-Utilization of **bold** 
 
-##### Table of Contents
+
+#### Table of Contents
 -[Class 1 Reading](class1.md)
 
 -[Class 2 Reading](class2.md)
