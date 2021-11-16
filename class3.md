@@ -14,3 +14,4 @@ Once on your laptop's shell/ terminal you can open VSCODE to help with syntax.
 
 You can use **git status** to check up on how many commits you are behind from the terminal to Github.
 
+If you need help with Git you can use **git help command** 
