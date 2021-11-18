@@ -20,3 +20,5 @@ My name is Cesar Deltoro I'm a veteran and am looking to start my career in tech
 -[Class 5 Reading](class5.md)
 
 -[Class 6 Reading](class6.md)
+
+-[Class 7 Reading](class7.md)
