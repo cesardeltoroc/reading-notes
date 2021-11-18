@@ -49,6 +49,11 @@ The **Boolean** has two litearl values true and false.
 -A fraction (Another decimal number)
 -Lastly, an exponnent.
 
-**Object Literals** 
+You can declare a variable by making this a variable (userAge) and making a prompt ('What is your Age?').
+
+document.write is a built in javascript code and used to put it into a website from vscode.
+
+You can use alert inside of a  if command to inform someone something. 
+
 
 [Back](README.md)
