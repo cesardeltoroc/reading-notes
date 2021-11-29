@@ -12,7 +12,7 @@ VSCode is a text editor for code and allows you to create code with many differe
 
 ## Extra Markups in html
 
-Comments made in HTML are wrapped inside of <!-- Comment for html -!>
+Comments made in HTML are wrapped inside of 
 The id attribute can be used to identify a specific element on a page.
 
 < iframe > is a html syntax needs a src, width and height.
