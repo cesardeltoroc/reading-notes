@@ -24,4 +24,4 @@ My name is Cesar Deltoro I'm a veteran and am looking to start my career in tech
 
 -[JavaScript Functions](JavaScriptFunctions.md)
 
--[Operators and Loops](Operators&Loops.md)
+-[Operators and Loops](OperationLoops.md)
