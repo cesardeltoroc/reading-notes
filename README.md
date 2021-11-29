@@ -8,20 +8,31 @@ My name is Cesar Deltoro I'm a veteran and am looking to start my career in tech
 
 
 
-### Table of Contents
-
--[Markdown](Markdown.md)                                      
-
- -[Command Line/ Terminal](Terminal.md)
-
--[ACP Process](ACP.md)           
-
- -[Wireframing](Wireframing.md)
-
--[CSS](CSS.md)            
-
- -[Javascript](JavaScript.md)
-
+### Code 102 Table of Contents
+-[Markdown](Markdown.md)
+-[Command Line/ Terminal](Terminal.md)
+-[ACP Process](ACP.md)
+-[CSS](CSS.md)
+-[Javascript](JavaScript.md)
 -[JavaScript Functions](JavaScriptFunctions.md)
-
 -[Operators and Loops](OperationsLoops.md)
+
+
+
+
+### Code 201 Table of Contents
+-[Class 1 Reading](Class1.md)
+-[Class 2 Reading](Class2.md)
+-[Class 3 Reading](Class3.md)
+-[Class 4 Reading](Class4.md)
+-[Class 5 Reading](Class5.md)
+-[Class 6 Reading](Class6.md)
+-[Class 7 Reading](Class7.md)
+-[Class 8 Reading](Class8.md)
+-[Class 9 Reading](Class9.md)
+-[Class 10 Reading](Class10.md)
+-[Class 11 Reading](Class11.md)
+-[Class 12 Reading](Class12.md)
+-[Class 13 Reading](Class13.md)
+-[Class 14 Reading](Class14.md)
+-[Class 15 Reading](Class15.md)
