@@ -15,7 +15,7 @@ VSCode is a text editor for code and allows you to create code with many differe
 Comments made in HTML are wrapped inside of 
 The id attribute can be used to identify a specific element on a page.
 
-< iframe > is a html syntax needs a src, width and height.
+> "<iframe>" is a html syntax needs a src, width and height.
 
 The < meta >  tag gives information on the document presented on the webpage.
 
