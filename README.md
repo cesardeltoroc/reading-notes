@@ -10,18 +10,18 @@ My name is Cesar Deltoro I'm a veteran and am looking to start my career in tech
 
 ### Table of Contents
 
--[Class 1 Notes](Markdown.md)                                      
+-[Markdown](Markdown.md)                                      
 
- -[Class 2 Notes](Terminal.md)
+ -[Command Line/ Terminal](Terminal.md)
 
--[Class 3 Notes](ACP.md)           
+-[ACP Process](ACP.md)           
 
- -[Class 4 Notes](Wireframing.md)
+ -[Wireframing](Wireframing.md)
 
--[Class 5 Notes](CSS.md)            
+-[CSS](CSS.md)            
 
- -[Class 6 Notes](JavaScript.md)
+ -[Javascript](JavaScript.md)
 
--[Class 7 Notes](JavaScriptFunctions.md)
+-[JavaScript Functions](JavaScriptFunctions.md)
 
 -[Operators and Loops](Operators&Loops.md)
