@@ -6,3 +6,6 @@ An opening tag usually is <p> and a closing tag usually have a forward slash to 
 VSCode is a text editor for code and allows you to create code with many different languages.
 
 ## Extra Markups in html
+Comments made in HTML are wrapped inside of <!-- Comment for html -!>
+The id attribute can be used to identify a specific element on a page.
+
