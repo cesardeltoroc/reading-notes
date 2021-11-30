@@ -9,7 +9,7 @@ My name is Cesar Deltoro I'm a veteran and am looking to start my career in tech
 
 
 ### Code 102 Table of Contents
--[Markdown](Markdown.md)
+-[Markdown](102/Markdown.md)
 
 -[Command Line/ Terminal](Terminal.md)
 
