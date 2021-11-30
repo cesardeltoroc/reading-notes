@@ -24,3 +24,21 @@ To abbrivate an accronym you can use < acronym title="Fast Pizza Place"> Pizza</
 The < s> < /s> will let you mark a line through information that is not longer valid but you would still like to keep because it may have an importance in the future.
 
 ## Introducing CSS
+
+Cascade Style Sheets allow you to design a website and make it look nice.
+
+When wanting to access a specific area use a selector
+> p{
+  font-family: Arial;
+}
+
+The P is the selector and the font-family is the declaration. 
+
+When using internal CSS you can use CSS in html by using style in tags.
+
+A universal selector is *()
+A type selector would be like h1, h2 or h3.
+A class slector would be .code the name of whatever
+A ID selector would be accessed by the #.
+A Child selector would be li>a.
+
