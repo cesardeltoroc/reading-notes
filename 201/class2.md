@@ -76,11 +76,13 @@ var score = 20;
 var max = 20;
 var comparison = (score == max);
 
-Logical Operators allows you to compare more than one.
+Logical and Operators allows you to compare more than one.
 
 && Logical and
 || Logical or
-! Logical not
+! Logical not or Bang -goes in front of the thing.
+
+### Notes from class 11/30/21
 
 If statements (checks) if the blocks are **true** than the code block is executed.
 
@@ -98,4 +100,5 @@ if (pizza == 50){
 else {
   console.log('Hi');
 }
+
 [Back](readme.md)

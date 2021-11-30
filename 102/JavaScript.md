@@ -55,5 +55,26 @@ document.write is a built in javascript code and used to put it into a website f
 
 You can use alert inside of a  if command to inform someone something. 
 
+When starting a Javascript file at the top of the page you need to use 
+> 'use strict';
+
+When using IF statements you need a conditional statment right after for example
+> if(true){
+console.log('hi');
+}
+The true is a conditional statement
+Inside the curly brackets is 
+
+When using else if statement you need you also need a other conditional statement
+else if (true){
+console.log('hi');  
+}
+
+An else statement does not need a conditional statement.
+
+A boolean is an efficent data type that makes 1 = On, 0 = Off.
+
+Logical operators
+
 
 [Back](README.md)
