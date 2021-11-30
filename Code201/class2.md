@@ -58,3 +58,43 @@ people = 'Welcome to the show';
 
 Declating a function can allow you to access multiple variables inside of a function.
 
+## Decisions and Loops
+
+Comparison Operators
+
+== is equal
+!= not equal
+=== strict equal to
+!== strict not equal to
+'> > Greater than
+< Less than
+'>= Greater than or equal too
+'>= Less than or equal to
+
+An axample of where compraison operators would be valid is.
+var score = 20;
+var max = 20;
+var comparison = (score == max);
+
+Logical Operators allows you to compare more than one.
+
+&& Logical and
+|| Logical or
+! Logical not
+
+If statements (checks) if the blocks are **true** than the code block is executed.
+
+if (pizza == 10) {
+  console.log('Congrats);
+}
+
+This would only execute if the pizza should be 10.
+
+if Else statement is put in place the code will activate if it is false example.
+
+if (pizza == 50){
+  console.log('Congrats');
+}
+else {
+  console.log('Hi');
+}
