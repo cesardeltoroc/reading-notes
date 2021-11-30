@@ -11,49 +11,49 @@ My name is Cesar Deltoro I'm a veteran and am looking to start my career in tech
 ### Code 102 Table of Contents
 -[Markdown](./102/Markdown.md)
 
--[Command Line/ Terminal](Terminal.md)
+-[Command Line/ Terminal](./102/Terminal.md)
 
--[ACP Process](ACP.md)
+-[ACP Process](./102/ACP.md)
 
--[CSS](CSS.md)
+-[CSS](./102/CSS.md)
 
--[Javascript](JavaScript.md)
+-[Javascript](./102/JavaScript.md)
 
--[JavaScript Functions](JavaScriptFunctions.md)
+-[JavaScript Functions](./102/JavaScriptFunctions.md)
 
--[Operators and Loops](OperationsLoops.md)
+-[Operators and Loops](./102/OperationsLoops.md)
 
 
 
 
 ### Code 201 Table of Contents
 
--[Class 1 Reading](class1.md)
+-[Class 1 Reading](./201/class1.md)
 
--[Class 2 Reading](class2.md)
+-[Class 2 Reading](./201/class2.md)
 
--[Class 3 Reading](class3.md)
+-[Class 3 Reading](./201/class3.md)
 
--[Class 4 Reading](class4.md)
+-[Class 4 Reading](./201/class4.md)
 
--[Class 5 Reading](class5.md)
+-[Class 5 Reading](./201/class5.md)
 
--[Class 6 Reading](class6.md)
+-[Class 6 Reading](./201/class6.md)
 
--[Class 7 Reading](class7.md)
+-[Class 7 Reading](./201/class7.md)
 
--[Class 8 Reading](class8.md)
+-[Class 8 Reading](./201/class8.md)
 
--[Class 9 Reading](class9.md)
+-[Class 9 Reading](./201/class9.md)
 
--[Class 10 Reading](class10.md)
+-[Class 10 Reading](./201/class10.md)
 
--[Class 11 Reading](class11.md)
+-[Class 11 Reading](./201/class11.md)
 
--[Class 12 Reading](class12.md)
+-[Class 12 Reading](./201/class12.md)
 
--[Class 13 Reading](class13.md)
+-[Class 13 Reading](./201/class13.md)
 
--[Class 14 Reading](class14.md)
+-[Class 14 Reading](./201/class14.md)
 
--[Class 15 Reading](class15.md)
+-[Class 15 Reading](./201/class15.md)
