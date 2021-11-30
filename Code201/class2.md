@@ -42,3 +42,19 @@ A class slector would be .code the name of whatever
 A ID selector would be accessed by the #.
 A Child selector would be li>a.
 
+## Basic Javascript Instructions
+
+A variable is something that data can be stored inside of Javascript.
+
+You can assign a value to a variable with a assignment operator =.
+
+Storing a number in a variable example 
+var price;
+price = 5;
+
+Using a variable to store a string example
+var people;
+people = 'Welcome to the show';
+
+Declating a function can allow you to access multiple variables inside of a function.
+
