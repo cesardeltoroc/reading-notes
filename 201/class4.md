@@ -80,6 +80,57 @@ let idexCount= 0;
       }
  } -->
 
+## Links
 
+Links are created by opening with an anchor tag.
+
+> <a href="link">Title</a> 
+
+The user would click the Title and it will take them to the link provided inside of the opening tag link.
+
+
+Linking to other pages on the same site would just change the URL to the file name of the page your trying to access on the same page.
+
+> <a href="cookie.html">Cookies</a>
+
+If you want a URL link to open in a new window in html use the same for but insert target blank example:
+
+> <a href="Link" target'= "_blank'> Traget</a>(Opens in new window).
+
+## Layout
+
+Floating elements can move from left or right moving the elements inside.
+
+Some floats may carry on to other elements in the webpage so if that arises simple .clear in CSS
+> .clear {
+  clear: left;
+}
+
+Using class names in HTML can make it easiert to navigate when using CSS in css frameworks to make the website easier to design.
+
+## Functions
+
+A basic function can store data inside of it by stoing multiple statments.
+
+ Declaring a function goes as follows
+> function helloWorld(){
+> document.write('Hello World');
+> }
  
+ To call that function above you could use a script tag in HTML or simply insert in Javascript
+ >helloWorld();
+
+ Delclaring a function that needs information inside, inside of the () parameters are stored.
+ > function getSize (width, height){
+ >  return width* height;
+ > }
+
+ In a function declaration you must invoke the function somewhere in the code for it to work.
+
+## Pair programming
+
+Pairing when programing can help with one's social skills and create a sense of a work environment.
+
+
+
  [Back](https://cesardeltoroc.github.io/reading-notes/)
