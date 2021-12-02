@@ -1,10 +1,15 @@
 # Accessing the terminal w/ commands [CODE 102 Read 02]
 
 The terminal is means of access to things located on a computer not using the GUI.
+
 You can sometimes use up and down keys to access previously written codes to make it easier when using the shell.
+
 An IDE is suite of different software all coming together. An IDE is a text editor, a file manager, a compiler, and a debugger all in one software package.
+
 A text editor simply doees what it is named it edits texts and managing text files.
+
 PWD stands for Print Working Directory it tells you where you are currently in your working directory.
+
 Determining what's inside of your current location in a shell in ls.
 
 pwd  Where are we currently.
