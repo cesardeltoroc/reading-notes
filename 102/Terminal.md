@@ -31,4 +31,4 @@ ls -a: List the contents inside of a directory it also includes hidden files.
 
 mk dir command allows you to make a directory.
 
-[Back](README.md)
+[Back](https://cesardeltoroc.github.io/reading-notes/)
