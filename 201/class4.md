@@ -84,18 +84,18 @@ let idexCount= 0;
 
 Links are created by opening with an anchor tag.
 
-> <a href="link">Title</a> 
+> < a href="link">Title< /a> 
 
 The user would click the Title and it will take them to the link provided inside of the opening tag link.
 
 
 Linking to other pages on the same site would just change the URL to the file name of the page your trying to access on the same page.
 
-> <a href="cookie.html">Cookies</a>
+> < a href="cookie.html">Cookies< /a>
 
 If you want a URL link to open in a new window in html use the same for but insert target blank example:
 
-> <a href="Link" target'= "_blank'> Traget</a>(Opens in new window).
+> < a href="Link" target'= "_blank'> Traget< /a>(Opens in new window)'.
 
 ## Layout
 
