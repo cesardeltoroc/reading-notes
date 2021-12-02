@@ -1,4 +1,4 @@
-## Javascript Notes
+<!-- ## Javascript Notes
 
 An **Array** is a description of an element ( it can be numbers or letters ), They have [EXAMPLE] stuff inside. A collection of elements or a list of items. It can hold more than one value and other **arrays** and **objects**.
 
@@ -78,6 +78,8 @@ let idexCount= 0;
     console.log('we are done!');
   
       }
- }
+ } -->
+
+
  
- [Back](/README.md)
+ [Back](https://cesardeltoroc.github.io/reading-notes/)
