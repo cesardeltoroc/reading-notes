@@ -1,10 +1,6 @@
 ## HTML Images, CSS Color & Text
-
-Gif:
-
-JPEG:
-
-JPG:
+ 
+ Gif, JPEG, JPG can be used.
 
 > Something you can use in HTML for an image could be < figure > < /figure >
 
