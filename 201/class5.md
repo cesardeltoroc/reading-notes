@@ -27,6 +27,5 @@ If you are trying to reach a certain section inside of a parent header you may n
 
 You can change text color and create a background color for the text to be displayed in.
 <!-- This is just a comment on how text can be used in CSS
-It can be tricky when trying to aceess certain text spots in a html file so you may need to assign a section or different tags in HTML>
-
-
+It can be tricky when trying to aceess certain text spots in a html file so you may need to assign a section or different tags in HTML-->
+[Back](https://cesardeltoroc.github.io/reading-notes/)
