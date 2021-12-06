@@ -44,4 +44,25 @@ Finding HTML elements by CSS selectors
 
 Finding HTML elements by HTML object collections
 
+Example done in Class
+
+> let cesar = {
+  name: 'Cesar',
+  role: 'Student',
+  age: 22,
+  says: function () {
+    console.log('hello world');
+  }
+
+> };
+
+
+This refers to a specific obeject litearl.
+
+adding to a object goes as follows
+> cesar.hobby = [' baking', ' execrice']
+> this uses dot notation.
+
+
+
  [Back](https://cesardeltoroc.github.io/reading-notes/)
