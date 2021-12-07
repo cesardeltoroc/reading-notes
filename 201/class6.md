@@ -63,6 +63,8 @@ adding to a object goes as follows
 > cesar.hobby = [' baking', ' execrice']
 > this uses dot notation.
 
+#### Manipulating the DOM
+
 
 
  [Back](https://cesardeltoroc.github.io/reading-notes/)
