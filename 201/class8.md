@@ -22,3 +22,4 @@ Pages can be fixed witdth or liquid layout (strechy). <!-- HTML & CSSJon Duckett
 < div> elements can be used to contain elements to group together sections of a page. <!-- HTML & CSSJon Duckett -->
 
 
+[Back](https://cesardeltoroc.github.io/reading-notes/)
