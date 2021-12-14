@@ -48,7 +48,7 @@ Draws a solid shape by filling the path's content area.<!--MDN Web Docs>
 
 font = value
 
-The current text style being used when drawing text. This string uses the same syntax as the CSS font property. The default font is 10px sans-serif.<!--MDN Web Docs>
+The current text style being used when drawing text. This string uses the same syntax as the CSS font property. The default font is 10px sans-serif. <!--MDN Web Docs>
 
 textAlign = value
 
