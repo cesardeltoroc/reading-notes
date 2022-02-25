@@ -1,15 +1,15 @@
 # Intro to 102 Reading Notes
 
--[Markdown](./102/Markdown.md)
+-[Markdown](Markdown.md)
 
--[Command Line/ Terminal](./102/Terminal.md)
+-[Command Line/ Terminal](Terminal.md)
 
--[ACP Process](./102/ACP.md)
+-[ACP Process](ACP.md)
 
--[CSS](./102/CSS.md)
+-[CSS](CSS.md)
 
--[Javascript](./102/JavaScript.md)
+-[Javascript](JavaScript.md)
 
--[JavaScript Functions](./102/JavaScriptFunctions.md)
+-[JavaScript Functions](JavaScriptFunctions.md)
 
--[Operators and Loops](./102/OperationsLoops.md)
+-[Operators and Loops](OperationsLoops.md)
