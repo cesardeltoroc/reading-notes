@@ -28,6 +28,26 @@ What is the flow of props?
 
 The flow of props are form parent to child, a uni-directional flow.
 
-## Things I want to know more about
+### Data Modeling
+
+Constructors, Functions and Prototypes:
+ES6 Classes
+
+    Person: 
+    
+    Attributes: would be the this.name in a constructor.
+
+    Behaviors: walk(), speak(), run(),drive() 
+
+#### Things I want to know more about
 
 Nothing came up just learning about this so still dont wanna overthink anything and get lost before class starts.
+
+# Lecture Notes
+
+[Classes]: Classes are a easier way to create a Constructor in JavaScript.Pushes out Objects of different types.
+    - Extends: Extends the constructor into the new class where extends is assigned.
+
+- Contextual this refers to this object and is locally scoped.
+
+- React Doesn't refresh the page it just makes a request and the files are served. 
