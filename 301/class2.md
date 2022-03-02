@@ -10,6 +10,8 @@ Mounting, Updating, and Unmounting are the three phases of the component lifecyc
 
 When an instance of a component is being appended to the DOM element refers to the MOUNTING PHASE.
 
+The flow is from parent to child elements in a React application. 
+
 1. Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?
   
   -The redner.
