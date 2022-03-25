@@ -49,3 +49,7 @@ What status code does a successful DELETE request return?
 How would you match a phone number from your city using RegEx?
 
 ( [559] ).
+
+## Things I want to know more about
+
+RegEx seems like an amazing way to deconstruct data, I would like to see more details about RegEx and what languages it can be used in. 
