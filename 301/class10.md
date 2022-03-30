@@ -46,3 +46,8 @@ You can use a console.log() to find where you the where you line of code is runn
 What does the word ‘debugger’ do in your code?
 
 You can use debugger in your code to find where the code runs into a problem by putting in debugger;.
+
+
+## Things I want to know more about
+
+I wasn't able to get a understanding on the code word debugger; so I would like to get to know more about that.
