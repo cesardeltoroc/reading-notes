@@ -13,3 +13,7 @@ sys.setrecursionlimit(<enter limit>)
  > This first module name is usually called main so the value for name in main.py is __main__.
 
  > If you want to import a different name of another file import it into main.py to show the name of the file on the other page.
+
+ ## Things I want to know more about
+
+> I would like to know more about how the build of python works, how does the data in the application flow?
