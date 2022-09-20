@@ -1,10 +1,18 @@
 # Read 01
 
+# Readings: Node Ecosystem
 
+How would you describe Node to a non-technical friend?
 
+- Node is a Javascript program (coding language). That is used on google's V8 engine. It basically allows you to execute Javascript.
 
+What does it mean that Node is a JavaScript runtime?
 
+- Its allows us to execute Javascript code outside of the browser. 
+  
+What is Node used for?
 
+- Node can be used for backend servers and paxket management etc....
 
 
 ## Class Notes
@@ -61,5 +69,7 @@ requires IS  a built in function in javascript.
 
 > Output [6, 5, 4, 3, 2, 1]
 
-> 
 
+## Things I want to know more about
+
+Node seems like a pretty self-explanatory program no questions. 
